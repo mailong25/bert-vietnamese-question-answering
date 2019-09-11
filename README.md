@@ -1,4 +1,4 @@
-# bert-vietnamese-qa
+# Vietnamese question answering with BERT
 
 Install prerequisites:
 pip3 install -r requirements.txt
