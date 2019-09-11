@@ -28,7 +28,7 @@ Due to the limitation of current dataset, the system only supports questions abo
 
 question = 'ai là người giàu nhất Việt Nam'
 
-## Using google to find relevant documents:
+### Using google to find relevant documents:
 
 Document 0
 
@@ -67,7 +67,7 @@ Tuy nhiên, với giá cổ phiếu VIC đã tăng mạnh trong hơn 1 năm qua 
 ------------------------------
 ...........
 
-## Find relevant passages from documents
+### Find relevant passages from documents
 
 Passage ranked 1
 
@@ -94,7 +94,7 @@ Passage ranked 4
 ------------------------------
 .......
 
-## Extracting answers with BERT
+### Extracting answers with BERT
 
 Passage:  Ông Phạm Nhật Vượng tiếp tục được công nhận là người giàu nhất Việt Nam với tài sản định giá 6,6 tỷ USD, đứng thứ 239 thế giới, tăng 2,3 tỷ USD so với năm ngoái.
 
