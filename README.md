@@ -16,7 +16,7 @@ After that, extract and put all files into "resources" directory
 ### 
 Want to understand how the framework work ?
 
-### Limitation
+### Limitations
 Due to the limitation of current dataset, the system only supports questions about person
 
 # Architecture Overview
