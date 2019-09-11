@@ -29,9 +29,13 @@ Due to the limitation of current dataset, the system only supports questions abo
 question = 'ai là người giàu nhất Việt Nam'
 
 ## Using google to find relevant documents:
+
 Document 0
+
 Link: https://vi.wikipedia.org/wiki/T%E1%BB%A9_%C4%91%E1%BA%A1i_Ph%C3%BA_h%E1%BB%99
+
 Sample content:
+
  Tứ đại phú hộ (chữ Hán: 四大富戶) là cụm từ dân gian ở miền Nam Việt Nam đặt ra vào cuối thế kỷ XIX đến đầu thế kỷ XX để chỉ bốn người giàu nhất Sài Gòn, cũng như nhất miền Nam Kỳ lục tỉnh và cả Đông Dương thời bấy giờ. . Để dễ nhớ, dân gian có câu Nhất Sỹ, Nhì Phương, Tam Xường, Tứ Định [1]. . Đây là câu được nhiều người biết. . Tuy nhiên, về vị trí thứ tư, được dành cho một số đại phú hộ khác như Tứ Trạch, Tứ Hỏa hoặc Tứ Bưởi.
 
 Tên thật là Lê Phát Đạt (1841-1900), còn có tên gọi là Sỹ, về sau được .....
