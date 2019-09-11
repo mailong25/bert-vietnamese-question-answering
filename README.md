@@ -13,3 +13,10 @@ Due to the limitation of current dataset, the system only supports questions abo
 Eg:
 + Who is the author of C programming language?
 + The richest man in Viet Nam ?
+
+
+# Architecture Overview
+ - Question Answering based IR - Speech and language processing (daniel jurafsky)
+ - https://web.stanford.edu/~jurafsky/slp3/24.pdf
+ 
+<img src="Framework.png">
