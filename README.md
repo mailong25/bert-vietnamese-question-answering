@@ -13,9 +13,6 @@ pip3 install -r requirements.txt
 Link: https://drive.google.com/open?id=1ml-Qwv4yHxepp852N-aL0U5iZzqLNZ4B
 After that, extract and put all files into "resources" directory
 
-### 
-Want to understand how the framework work ?
-
 ### Limitations
 Due to the limitation of current dataset, the system only supports questions about person
 
@@ -25,3 +22,8 @@ Due to the limitation of current dataset, the system only supports questions abo
  - For better understanding: Open notebook file --> change the question --> run line by line
  
 <img src="Framework.png">
+
+
+### Sample:
+
+
