@@ -1,5 +1,11 @@
 # Vietnamese question answering with BERT
 
+- Q: Người giàu nhất việt nam (richest man in Vietnam) ?
+- A: Phạm Nhật Vượng
+
+- Q: Ai là tác giả của ngôn ngữ lập trình C (Who invented C programming language)
+- A: Dennis Ritchie
+
 Install prerequisites:
 pip3 install -r requirements.txt
 
