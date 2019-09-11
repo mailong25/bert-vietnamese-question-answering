@@ -6,7 +6,7 @@
 - Q: Ai là tác giả của ngôn ngữ lập trình C (Who invented C programming language)
 - A: Dennis Ritchie
 
-# Install prerequisites (work for python3 only)
+### Install prerequisites (work for python3 only)
 pip3 install -r requirements.txt
 
 Download pretrain model at: https://drive.google.com/open?id=1ml-Qwv4yHxepp852N-aL0U5iZzqLNZ4B
