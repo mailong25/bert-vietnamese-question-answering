@@ -16,6 +16,14 @@ After that, extract and put all files into "resources" directory
 ### Limitations
 Due to the limitation of current dataset, the system only supports questions about person
 
+# Further improvements
+ - Add more training data, and more question type as well
+ - Leverage english dataset (https://rajpurkar.github.io/SQuAD-explorer/). 
+     - You can simply translate English data  --> Vietnamese (using Google Translation API) and concatenate translated data into original dataset. 
+     - You can pre-train model on translated data and then retrain on Vietnamese dataset
+     - Cross-lingual Transfer Learning approaches
+ - Use machine leanring for information retrieval step. Dataset can be found in https://challenge.zalo.ai/portal/question-answering
+
 # Architecture Overview
  - Question Answering based IR - Speech and language processing (daniel jurafsky)
  - https://web.stanford.edu/~jurafsky/slp3/24.pdf
@@ -125,11 +133,3 @@ Passage:  Trước đó vào năm 2010, Phạm Nhật Vượng là người già
 Answer :  Phạm Nhật Vượng
 
 Score  :  0.9997637352104664
-
-# Further improvements
- - Add more training data, and more question type as well
- - Leverage english dataset (https://rajpurkar.github.io/SQuAD-explorer/). 
-     - You can simply translate English data  --> Vietnamese (using Google Translation API) and concatenate translated data into original dataset. 
-     - You can pre-train model on translated data and then retrain on Vietnamese dataset
-     - Cross-lingual Transfer Learning approaches
- - Use machine leanring for information retrieval step you. Dataset can be found at https://challenge.zalo.ai/portal/question-answering
