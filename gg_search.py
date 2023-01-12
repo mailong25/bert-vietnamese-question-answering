@@ -8,18 +8,12 @@ from multiprocessing import Pool
 import re
 import sys
 
-api_key = ['AIzaSyCIK5w6f4MrhgYzNPCVkMFrQxN_IQ_KO5w', 
-           'AIzaSyAF8jAPuv8oiJfJMKs_zFqUxGh11BT6OG4',
-           'AIzaSyBn3rmVMyn18jOc_K24BxXxewKBSMwZ7W0',
-           'AIzaSyCYZt6vYMXhTn3dykAtVi6KrkQ1b30rd0c',
-           'AIzaSyBLNAMh9TT6GGuRD1cxXM2X2YovlI-wyx8',
-           'AIzaSyDOMcbV8el6aAPay-I2t50n3MeB4YxV-nY',
-           'AIzaSyBvwz1-7wFsDKHAtPvE_ScQSf7Tbj_GXr4',
-           'AIzaSyC354FqnOpQUy69OFVhLd48FcxNXRFC0SQ',
-           'AIzaSyDx7H9lTj3pNVcxUXploZ9LdW_87_Ia4bs',
-           'AIzaSyA0xioeFHXFxWo4Z5yUDxI1hFMtfRU_KFU']
+api_key = ['your api key #1', 
+           'your api key #2',
+           'your api key #3',
+           '...']
 
-Custom_Search_Engine_ID = "005336700654283051786:1mzldt1husk"
+Custom_Search_Engine_ID = "your id"
 
 def chunks(l, n):
     for i in range(0, len(l), n):
